@@ -17,7 +17,7 @@ export const REELS_PROJECTS = [
     aspectRatio: "9/16",
     subtitle: "Patriotic Journey • 4K Grade",
     description: "Cinematic short-form documentary tracking a 10-day cross-country patriotic cycling expedition. Features sound design and historical storytelling.",
-    video: "/Reels/cycle reel final v2.mp4",
+    video: "https://github.com/juned-mansuri/jumicreates/releases/download/v1.0.0/cycle.reel.final.v2.mp4",
     poster: "/thumbnails/cycle reel final v2.jpg",
     tags: ["Documentary", "Cinematic Cut", "Sound Design", "Color Grade"],
     accentGradient: "from-amber-950 via-orange-950 to-black"
@@ -30,7 +30,7 @@ export const REELS_PROJECTS = [
     aspectRatio: "9/16",
     subtitle: "Kinetic Captions • 85% Hold",
     description: "Retention-engineered medical talking-head short with custom animated kinetic typography, visual punch-ins, and pattern interrupts.",
-    video: "/Reels/doctor reel 2 v2.1.mp4",
+    video: "https://github.com/juned-mansuri/jumicreates/releases/download/v1.0.0/doctor.reel.2.v2.1.mp4",
     poster: "/thumbnails/doctor reel 2 v2.1.jpg",
     tags: ["Retention Hook", "Kinetic Typography", "Medical", "Short-Form"],
     accentGradient: "from-teal-950 via-emerald-950 to-black"
@@ -43,7 +43,7 @@ export const REELS_PROJECTS = [
     aspectRatio: "9/16",
     subtitle: "Talking Head • Dynamic Captions",
     description: "Engaging doctor advice reel crafted with audio-reactive pacing, dynamic lower-thirds, and precision caption animation for viral reach.",
-    video: "/Reels/doctor reel v1.mp4",
+    video: "https://github.com/juned-mansuri/jumicreates/releases/download/v1.0.0/doctor.reel.v1.mp4",
     poster: "/thumbnails/doctor reel v1.jpg",
     tags: ["Talking Head", "Motion Graphics", "Healthcare", "Viral Cut"],
     accentGradient: "from-cyan-950 via-slate-900 to-black"
@@ -56,7 +56,7 @@ export const REELS_PROJECTS = [
     aspectRatio: "9/16",
     subtitle: "3D Map Tracking • Route VFX",
     description: "Intricate map tracking journey animation showing a 396km patriotic tour across India with custom 3D route vectors and historic emblems.",
-    video: "/Reels/finalv2.mp4",
+    video: "https://github.com/juned-mansuri/jumicreates/releases/download/v1.0.0/finalv2.mp4",
     poster: "/thumbnails/finalv2.jpg",
     tags: ["Map Animation", "3D Tracking", "VFX", "Culture"],
     accentGradient: "from-amber-900 via-orange-950 to-black"
@@ -69,7 +69,7 @@ export const REELS_PROJECTS = [
     aspectRatio: "9/16",
     subtitle: "CGI Robot • Metal Card Reveal",
     description: "High-octane commercial featuring 3D animated robotic arms, laser engraved metallic card reveals, and dramatic cinematic lighting.",
-    video: "/Reels/kumarxelitecards.mp4",
+    video: "https://github.com/juned-mansuri/jumicreates/releases/download/v1.0.0/kumarxelitecards.mp4",
     poster: "/thumbnails/kumarxelitecards.jpg",
     tags: ["3D CGI", "Commercial", "Product Promo", "VFX"],
     accentGradient: "from-red-950 via-neutral-900 to-black"
@@ -82,7 +82,7 @@ export const REELS_PROJECTS = [
     aspectRatio: "9/16",
     subtitle: "Kinetic Hindi Type • Ink Bleed",
     description: "Traditional Indian mandala motifs combined with strike-through kinetic Hindi typography and fluid ink bleed motion design.",
-    video: "/Reels/stamp pin.mp4",
+    video: "https://github.com/juned-mansuri/jumicreates/releases/download/v1.0.0/stamp.pin.mp4",
     poster: "/thumbnails/stamp pin.jpg",
     tags: ["Motion Typography", "Hindi Type", "Cultural", "Animation"],
     accentGradient: "from-amber-950 via-stone-900 to-black"
@@ -95,7 +95,7 @@ export const REELS_PROJECTS = [
     aspectRatio: "9/16",
     subtitle: "Retail Boutique • Dynamic Tour",
     description: "Dynamic boutique showcase capturing high-end ethnic wear, designer sherwanis, and luxury wedding attire with snappy transitions.",
-    video: "/Reels/jeeja.mp4",
+    video: "https://github.com/juned-mansuri/jumicreates/releases/download/v1.0.0/jeeja.mp4",
     poster: "/thumbnails/jeeja.jpg",
     tags: ["Fashion", "Retail Promo", "Commercial", "4K Cut"],
     accentGradient: "from-rose-950 via-pink-950 to-black"
@@ -108,7 +108,7 @@ export const REELS_PROJECTS = [
     aspectRatio: "9/16",
     subtitle: "60 FPS • Personal Brand",
     description: "Punchy creator channel introduction sequence with smooth zoom transitions, sound accents, and modern social video styling.",
-    video: "/Reels/Sarthak Intro.mp4",
+    video: "https://github.com/juned-mansuri/jumicreates/releases/download/v1.0.0/Sarthak.Intro.mp4",
     poster: "/thumbnails/Sarthak Intro.jpg",
     tags: ["Personal Brand", "YouTube Shorts", "Pacing", "Storytelling"],
     accentGradient: "from-indigo-950 via-purple-950 to-black"
@@ -121,7 +121,7 @@ export const REELS_PROJECTS = [
     aspectRatio: "9/16",
     subtitle: "Product Teaser • Cloche Reveal",
     description: "Clean 3D animation featuring a robotic arm lifting a luxury matte cloche to reveal a custom metallic credit card.",
-    video: "/Reels/Instagram_7.mp4",
+    video: "https://github.com/juned-mansuri/jumicreates/releases/download/v1.0.0/Instagram_7.mp4",
     poster: "/thumbnails/Instagram_7.jpg",
     tags: ["3D Animation", "Product Reveal", "Commercial", "Motion ID"],
     accentGradient: "from-blue-950 via-slate-900 to-black"
@@ -134,7 +134,7 @@ export const REELS_PROJECTS = [
     aspectRatio: "9/16",
     subtitle: "Physical Review • Retention 90%",
     description: "Direct-to-camera unboxing and retention hook demonstrating custom laser engraving on solid metal payment cards.",
-    video: "/Reels/Instagram_8.mp4",
+    video: "https://github.com/juned-mansuri/jumicreates/releases/download/v1.0.0/Instagram_8.mp4",
     poster: "/thumbnails/Instagram_8.jpg",
     tags: ["Retention Hook", "Unboxing", "Short-Form", "Commercial"],
     accentGradient: "from-emerald-950 via-zinc-900 to-black"
@@ -147,7 +147,7 @@ export const REELS_PROJECTS = [
     aspectRatio: "9/16",
     subtitle: "Mic Hook • Kinetic Captions",
     description: "Crisp studio audio, bold yellow contrast typography, and tight cutaways for a thought-provoking creator insight reel.",
-    video: "/Reels/Instagram_10.mp4",
+    video: "https://github.com/juned-mansuri/jumicreates/releases/download/v1.0.0/Instagram_10.mp4",
     poster: "/thumbnails/Instagram_10.jpg",
     tags: ["Podcast", "Kinetic Subtitles", "Mindset", "Creator"],
     accentGradient: "from-yellow-950 via-neutral-900 to-black"
@@ -160,7 +160,7 @@ export const REELS_PROJECTS = [
     aspectRatio: "9/16",
     subtitle: "Currency Particles • 3D VFX",
     description: "Story-driven creator revenue milestone breakdown featuring particle currency 3D dynamics and animated neon typography.",
-    video: "/Reels/Instagram_11.mp4",
+    video: "https://github.com/juned-mansuri/jumicreates/releases/download/v1.0.0/Instagram_11.mp4",
     poster: "/thumbnails/Instagram_11.jpg",
     tags: ["VFX Particles", "Storytelling", "Finance", "Shorts"],
     accentGradient: "from-green-950 via-emerald-950 to-black"
@@ -173,7 +173,7 @@ export const REELS_PROJECTS = [
     aspectRatio: "9/16",
     subtitle: "Agency Life • Unfiltered Energy",
     description: "Candid behind-the-scenes moments showcasing the creator studio vibe, fast editing banter, and creative team synergy.",
-    video: "/Reels/Instagram_12.mp4",
+    video: "https://github.com/juned-mansuri/jumicreates/releases/download/v1.0.0/Instagram_12.mp4",
     poster: "/thumbnails/Instagram_12.jpg",
     tags: ["Behind The Scenes", "Vlog", "Authentic", "Community"],
     accentGradient: "from-purple-950 via-zinc-900 to-black"
@@ -186,7 +186,7 @@ export const REELS_PROJECTS = [
     aspectRatio: "9/16",
     subtitle: "Vintage Stamp • Paper Cutout",
     description: "Playful mixed-media montage pairing vintage postage stamp borders, retro train animations, and raw travel memories.",
-    video: "/Reels/p1.mp4",
+    video: "https://github.com/juned-mansuri/jumicreates/releases/download/v1.0.0/p1.mp4",
     poster: "/thumbnails/p1.jpg",
     tags: ["Stop Motion", "Mixed Media", "Travel", "Creative Edit"],
     accentGradient: "from-stone-900 via-amber-950 to-zinc-950"
@@ -287,7 +287,7 @@ export const MOTION_PROJECTS = [
     category: "STUDIO VLOG",
     subtitle: "POV Fabrication • Macro Engraving",
     description: "Long-form cinematic studio diary documenting precision laser engraving, physical merchandise testing, and creative fabrication at @jumicreates.",
-    video: "/Reels/horizontal 1.mp4",
+    video: "https://github.com/juned-mansuri/jumicreates/releases/download/v1.0.0/horizontal.1.mp4",
     poster: "/thumbnails/horizontal 1.jpg",
     tags: ["16:9 HORIZONTAL", "STUDIO VLOG", "LASER FABRICATION", "POV"],
     accentGradient: "from-zinc-900 via-neutral-900 to-black"
@@ -298,7 +298,7 @@ export const MOTION_PROJECTS = [
     category: "CREATIVE STRATEGY",
     subtitle: "Whiteboard Ideation • Retention Pacing",
     description: "Behind-the-scenes deep dive into content strategy, whiteboard mapping, and high-retention production frameworks at @jumicreates.",
-    video: "/Reels/horizontal 2.mp4",
+    video: "https://github.com/juned-mansuri/jumicreates/releases/download/v1.0.0/horizontal.2.mp4",
     poster: "/thumbnails/horizontal 2.jpg",
     tags: ["16:9 HORIZONTAL", "STRATEGY", "CREATIVE DIRECTION", "WHITEBOARD"],
     accentGradient: "from-amber-950 via-zinc-900 to-black"

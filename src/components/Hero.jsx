@@ -9,7 +9,7 @@ export default function Hero() {
 
   const videoData = {
     1: {
-      src: '/Reels/horizontal 1.mp4',
+      src: 'https://github.com/juned-mansuri/jumicreates/releases/download/v1.0.0/horizontal.1.mp4',
       poster: '/thumbnails/horizontal 1.jpg',
       title: 'THE CRAFT: LASER DIARIES #1',
       subtitle: 'Material Testing & Physical Fabrication',
@@ -18,7 +18,7 @@ export default function Hero() {
       specs: '4K // 24 FPS',
     },
     2: {
-      src: '/Reels/horizontal 2.mp4',
+      src: 'https://github.com/juned-mansuri/jumicreates/releases/download/v1.0.0/horizontal.2.mp4',
       poster: '/thumbnails/horizontal 2.jpg',
       title: 'THE MIND: STUDIO STRATEGY',
       subtitle: 'Whiteboard Ideation & Content Pacing',
