@@ -1,0 +1,9 @@
+node_modules
+dist
+.git
+.vercel
+.env*
+.tempmediaStorage
+San Francisco Pro Display
+stitch_jumi_creates_creative_technologist_portfolio
+public/Reels/
